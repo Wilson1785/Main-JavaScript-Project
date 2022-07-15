@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    font-size: larger;
+    font-weight: bolder;
+    background-color:darkgray;
+    width: 200px;
+    height: 45px;
+    border-radius: 15px;
+    border-color: darkgrey;
+}
+
+.cent{
+    display: flex;
+    justify-content: center;
+}
