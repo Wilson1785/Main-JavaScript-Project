@@ -6,6 +6,12 @@ h1{
     text-align: center;
 }
 
+h4{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
 button{
     font-size: larger;
     font-weight: bolder;
